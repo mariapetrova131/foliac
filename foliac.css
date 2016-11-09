@@ -1,0 +1,224 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid black;
+	font-family: lato, helvetica, arial sans-serif;
+	color: white;
+	-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+			box-sizing: border-box;
+}
+
+
+header {
+	background-image: url(header_foliac.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+#logo-and-navigation {
+	margin: 2% 15% 0% 15%;
+	
+}
+
+#top-navigation {
+
+	display: block;
+	float:right;
+	margin: 4% 0%;
+	width: 50%;
+	
+}
+
+#top-navigation li {
+	display: inline-block;
+	margin-left: 3%;
+	width: 20%;
+	text-align: center;
+}
+
+#headertext {
+	margin: 0% 15%;
+	text-align: center;
+	padding: 2%;
+}
+
+h1 {font-size: 2.6em;
+}
+
+h2{
+  font-size: 130%;
+  font-weight: 100;
+  text-align: center;
+  margin: 2%;
+  
+}
+
+#buttonfirst {
+  font-color: #48bf72;
+  width: 20%;
+  background-color: transparent;
+  height: 2.6em;
+  border: 2px solid #48bf72;
+  font-size: 1em;
+  color: #48bf72;
+  margin: 0% 43% 0% 43%;
+  
+}
+
+
+
+#second li {
+  color: black;
+  background-color:#eaeaea;
+  display: inline-block;
+  margin: 2.2em 0.2em;
+  font-size: 1em;
+  padding: 0.2em;
+  border-radius: 5px;
+}
+
+#second {
+  text-align: center;
+  
+  
+}
+#forpics {
+	margin: 0% 15%;
+	display: inline-block;
+	font-size: 0px;
+	
+}
+
+.pic {
+	
+	background: #eaeaea;
+	background-repeat: no-repeat;
+	width: 99%;
+	margin-bottom:30px;
+	border-radius: 15px;
+	
+}
+
+#one {
+	width: 39%;
+	float: left ;
+	
+	
+}
+
+#two {
+	width: 58%;
+	float: right;
+	
+	
+	
+}
+
+#long{
+	
+	height: 375px;
+}
+
+
+#mishel {
+	background-image: url(footer_12.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+	
+}
+
+#misheltext {
+	margin: 4% 15% 1% 47%;
+	padding: 3%;
+	
+	
+}
+
+#buttonsecond {
+  width: 40%;
+  background-color: transparent;
+  height: 2.6em;
+  border: 2px solid #3c4955;
+  font-size: 1em;
+  color: #3c4955;
+  margin: 10px;
+ 
+  
+}
+
+h4 { 
+	margin-bottom: 4%; 
+	}
+
+h3, p { 
+	margin-bottom: 7%;
+ }
+
+#form{
+	text-align:center;
+	color: #48bf72;
+	
+}
+
+form{
+	text-align: center;
+	margin: 0% 30%;
+	font-weight: bold;
+}
+
+#name, #email {
+	width: 45%;
+	height: 30px;
+	margin: 1%;
+}
+
+#name{
+    border: none;
+    background: url(dr.png) no-repeat 50% 50%;
+    
+}
+#messagetext{
+	width: 92%;
+	margin: 5% 0%;
+	height: 150px;
+}
+
+#subm{
+	width: 92%;
+	height: 30px;
+	background-color: #48bf72;
+	margin-bottom: 5%;
+}
+
+footer{
+	text-align: center;
+	background-color: #3c4955;
+	
+}
+
+#ftext{
+	margin: 2% 25%;
+	display: inline-block;
+	width: 60%;
+	text-align: center;
+}
+
+#sociannet{
+	float: right;
+	padding: 5px;
+}
+
+#co{
+	float: left;
+	padding-top:20px;
+	
+	
+}
+#picone:hover {
+	background-color: #0000d0;
+	opacity: 0.1;
+	
+}
